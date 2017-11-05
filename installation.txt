@@ -1,0 +1,40 @@
+Installation:
+1. NodeJs
+install it from: https://nodejs.org/en/download/
+
+Verify Node version:
+1. node -v
+Version should be greater than 6.
+
+2.npm -v
+Version should be >3
+
+
+IDE:
+1.Visual Studio Code
+to download visit:
+https://code.visualstudio.com/#alt-downloads
+
+
+TypeScript:
+to verify version 
+tsc -v
+
+For Source Code Management:
+Install Git
+Create account on github.com
+
+
+Angular CLI:
+to install:
+npm install -g @angular/cli
+After this run ng to verify if angular cli is installed.
+To create a startup Project:
+1.ng new <AppName>
+
+
+
+
+MongoDB (optional):
+downoad community edition:
+https://www.mongodb.com/download-center?jmp=nav#community
